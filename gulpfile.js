@@ -210,7 +210,8 @@ gulp.task('sprite', function (cb) {
 
     spriteData.img
         .pipe(buffer())
-        .pipe(gulp.dest("dist/assets/img/"));
+        .pipe(rename({prefix: '_'}))
+        .pipe(gulp.dest("src/img/"));
 
     spriteData.css
         .pipe(buffer())
