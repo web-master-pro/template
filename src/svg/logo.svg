@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250 150" style="enable-background:new 0 0 250 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00C6FA;}
+	.st1{fill:#005CA8;}
+	.st2{fill:#00C92F;}
+	.st3{fill:#FF431C;}
+	.st4{fill:#FFAE00;}
+	.st5{fill:#EB75FF;}
+	.st6{fill:#B90053;}
+	.st7{fill:#AE17A8;}
+	.st8{fill:#008130;}
+	.st9{fill:#16B4D8;}
+</style>
+<polygon class="st0" points="0,0 50,0 25,75 "/>
+<polygon class="st1" points="75,75 25,75 50,0 "/>
+<polygon class="st2" points="25,75 75,75 50,150 "/>
+<polygon class="st3" points="125,75 75,75 100,0 "/>
+<polygon class="st4" points="75,75 125,75 100,150 "/>
+<polygon class="st5" points="100,0 150,0 125,75 "/>
+<polygon class="st6" points="175,75 125,75 150,0 "/>
+<polygon class="st7" points="125,75 175,75 150,150 "/>
+<polygon class="st8" points="225,75 175,75 200,0 "/>
+<polygon class="st1" points="175,75 225,75 200,150 "/>
+<polygon class="st2" points="200,0 250,0 225,75 "/>
+<polygon class="st8" points="100,150 50,150 75,75 "/>
+<polygon class="st9" points="200,150 150,150 175,75 "/>
+</svg>

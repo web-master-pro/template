@@ -1,0 +1,65 @@
+input()
+    box-sizing border-box
+    width 100%
+    max-width 278px
+    height 45px
+    background-color white
+    border 1px solid #e4e4e4
+    color #003874
+    font(Thin)
+    font-size 18px
+    line-height 45px
+    padding 0 20px
+    position relative
+    &:focus
+        background-color white
+        border 1px solid #000
+
+
+    &::-webkit-input-placeholder
+        color #000
+        opacity 1
+    &::-moz-placeholder
+        color #000
+        opacity 1
+    &:-moz-placeholder
+        color #000
+        opacity 1
+    &:-ms-input-placeholder
+        color #000
+        opacity 1
+    &:input-placeholder
+        color #000
+        opacity 1
+
+    &:focus::-webkit-input-placeholder
+        color #000
+    &:focus::-moz-placeholder
+        color #000
+    &:focus:-moz-placeholder
+        color #000
+    &:focus:-ms-input-placeholder
+        color #000
+    &:focus:input-placeholder
+        color #000
+
+    &:-webkit-autofill
+        -webkit-box-shadow inset 0 0 0 50px rgba(255,255,255,1) !important
+        background-color white !important
+        -webkit-text-fill-color #000 !important;
+        color #000 !important
+
+
+label.invalid-field
+    display block
+    width 100%
+    max-width 278px
+    color red
+    font(Regular)
+    font-size 14px
+    line-height 1
+    text-align center
+    padding 0px 20px
+    margin -10px auto 15px
+    &.hidden
+        display none !important
